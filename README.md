@@ -19,7 +19,7 @@ Intern @Nettyfish solutions
 
 ### Front-end
 
-<img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-bootstrap-a-free-and-open-source-css-framework-logo-shadow-tal-revivo.png" alt="external-bootstrap-a-free-and-open-source-css-framework-logo-shadow-tal-revivo"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/><img width="50" height="50" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
 
 <br>
 ### Back-end 
