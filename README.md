@@ -9,6 +9,7 @@ Intern @Nettyfish solutions
 - 🏫 MCA graduate from University of Madras
 - 📌 I am currently learning Datastructures and Algorithms
 - ✌🏼 Solved 300+ leetcode problems
+- 🖋 Good problem solver & Great Learner
 
 ### For reach me
 
