@@ -3,6 +3,33 @@
 Aspiring Software Developer 
 <br>
 Intern @Nettyfish solutions
+
+- MCA graduate from University of Madras
+- I am currently learning Datastructures and Algorithms
+- Solved 300+ leetcode problems
+
+'''c++
+int main() {
+    while (true) { // Infinite loop
+        std::cout << "Eat 🍔" << std::endl;
+        delay(1); // Delay for 1 second
+        
+        std::cout << "Code 💻" << std::endl;
+        delay(1);
+        
+        std::cout << "Sleep 😴" << std::endl;
+        delay(1);
+        
+        std::cout << "Repeat 🔁" << std::endl;
+        delay(1);
+        
+        std::cout << "-------------------" << std::endl;
+    }
+
+    return 0;
+}
+
+'''
 <img align="right" width="370" height="290" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJkbGN6ZzRheW0xNHZhZDYxZzEzbDNxemR2Yjl0bXMzdGNiY3J2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 
