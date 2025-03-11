@@ -8,7 +8,21 @@ Intern @Nettyfish solutions
 - I am currently learning Datastructures and Algorithms
 - Solved 300+ leetcode problems
 
-'''c++
+## Eat 🍔 → Code 💻 → Sleep 😴 → Repeat 🔁
+
+```cpp
+#include <iostream>
+#include <unistd.h> // For sleep() in Linux/macOS
+#include <windows.h> // For Sleep() in Windows
+
+void delay(int seconds) {
+    #ifdef _WIN32
+        Sleep(seconds * 1000); // Windows: Sleep() takes milliseconds
+    #else
+        sleep(seconds); // Linux/macOS: sleep() takes seconds
+    #endif
+}
+
 int main() {
     while (true) { // Infinite loop
         std::cout << "Eat 🍔" << std::endl;
@@ -29,7 +43,6 @@ int main() {
     return 0;
 }
 
-'''
 <img align="right" width="370" height="290" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJkbGN6ZzRheW0xNHZhZDYxZzEzbDNxemR2Yjl0bXMzdGNiY3J2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 
