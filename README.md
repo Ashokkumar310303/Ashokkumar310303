@@ -4,9 +4,9 @@ Aspiring Software Developer
 <br>
 Intern @Nettyfish solutions
 
-- MCA graduate from University of Madras
-- I am currently learning Datastructures and Algorithms
-- Solved 300+ leetcode problems
+- 🏫 MCA graduate from University of Madras
+- 📌 I am currently learning Datastructures and Algorithms
+- ✌🏼 Solved 300+ leetcode problems
 
 
 
