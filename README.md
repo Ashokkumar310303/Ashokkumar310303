@@ -7,7 +7,7 @@ Intern @Nettyfish solutions
 <img align="right" width="370" height="290" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJkbGN6ZzRheW0xNHZhZDYxZzEzbDNxemR2Yjl0bXMzdGNiY3J2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 - 🏫 MCA graduate from University of Madras
-- 📌 I am currently learning Datastructures and Algorithms
+- 📌 I am currently learning Data structures and Algorithms
 - ✌🏼 Solved 300+ leetcode problems
 - 🖋 Good problem solver & Great Learner
 
