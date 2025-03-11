@@ -12,7 +12,7 @@ Intern @Nettyfish solutions
 
 ###Social Media
 - For mail:
-  [https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](ashokkumar310303@gmail.com)
+  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"](ashokkumar310303@gmail.com)
 
 
 
