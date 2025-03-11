@@ -22,7 +22,7 @@ Intern @Nettyfish solutions
 
 ### Coding skills 
 
-<img height="50" width="50" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
 
 
 
