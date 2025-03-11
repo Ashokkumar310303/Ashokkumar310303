@@ -22,7 +22,7 @@ Intern @Nettyfish solutions
 
 ### Coding skills 
 
-<img width="50" height="50" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/> <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-cplusplus-a-general-purpose-descriptive-programming-computer-language-logo-color-tal-revivo.png" alt="external-cplusplus-a-general-purpose-descriptive-programming-computer-language-logo-color-tal-revivo"/>
 
 
 
