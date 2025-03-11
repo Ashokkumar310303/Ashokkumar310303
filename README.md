@@ -10,7 +10,7 @@ Intern @Nettyfish solutions
 - 📌 I am currently learning Datastructures and Algorithms
 - ✌🏼 Solved 300+ leetcode problems
 
-###Social Media
+### For reach me
 
  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:ashokkumar310303@gmail.com)<br>
  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ashok-kumar-2663a4287/)<br>
