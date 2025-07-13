@@ -32,7 +32,7 @@ Intern @Nettyfish solutions
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Ashok_kumar_31?theme=dark&font=Fresca&ext=heatmap)](https://leetcode.com/u/Ashok_kumar_31/)
 
 <p align="center">
- <img width="1000" src="github-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/Ashokkumar310303/Ashokkumar310303/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 
